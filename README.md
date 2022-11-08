@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @respectmashego
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently full stack developer
 - 💞️ I’m looking to collaborate on ...
 - contact:0795167535
 - email:r.mashego333@gmail.com
