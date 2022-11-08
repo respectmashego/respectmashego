@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... contact:0795167535
+- contact:0795167535
 - email:r.mashego333@gmail.com
 
 <!---
